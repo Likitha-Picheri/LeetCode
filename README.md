@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
+| [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 # Linked List
 |  |
 | ------- |
@@ -34,3 +35,15 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Likithasowji-500k/LeetCode/tree/master/0075-sort-colors) |
+# String
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+# Prefix Sum
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
