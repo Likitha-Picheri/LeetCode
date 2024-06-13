@@ -13,6 +13,7 @@
 # Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Likithasowji-500k/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 # Recursion
 |  |
@@ -26,3 +27,7 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
