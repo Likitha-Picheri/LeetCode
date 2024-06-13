@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Likithasowji-500k/LeetCode/tree/master/0075-sort-colors) |
+| [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 # Hash Table
@@ -53,3 +54,7 @@
 |  |
 | ------- |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+# Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
