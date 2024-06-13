@@ -61,3 +61,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
+# Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/0007-reverse-integer) |
