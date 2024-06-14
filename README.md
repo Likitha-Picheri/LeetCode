@@ -43,6 +43,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/Likithasowji-500k/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Hash Table
 |  |
@@ -156,6 +157,7 @@
 | [0371-sum-of-two-integers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1839-decode-xored-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1839-decode-xored-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
 |  |
