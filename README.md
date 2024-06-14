@@ -90,6 +90,7 @@
 | [0050-powx-n](https://github.com/Likithasowji-500k/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Likithasowji-500k/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
@@ -108,3 +109,4 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Likithasowji-500k/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
