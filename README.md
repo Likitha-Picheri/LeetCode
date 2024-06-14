@@ -135,6 +135,7 @@
 | [1894-merge-strings-alternately](https://github.com/Likithasowji-500k/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 # Bit Manipulation
 |  |
