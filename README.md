@@ -160,6 +160,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+| [2571-find-the-pivot-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/2571-find-the-pivot-integer) |
 # Simulation
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Likithasowji-500k/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Likithasowji-500k/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 # Counting
 |  |
