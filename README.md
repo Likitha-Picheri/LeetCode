@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Likithasowji-500k/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -84,6 +85,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 # String
 |  |
@@ -110,6 +112,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
@@ -160,6 +163,7 @@
 | [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Dynamic Programming
 |  |
 | ------- |
