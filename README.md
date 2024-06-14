@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Likithasowji-500k/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Likithasowji-500k/LeetCode/tree/master/0075-sort-colors) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -94,3 +95,7 @@
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Likithasowji-500k/LeetCode/tree/master/0035-search-insert-position) |
