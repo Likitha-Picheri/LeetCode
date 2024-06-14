@@ -114,6 +114,7 @@
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
@@ -173,6 +174,7 @@
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Likithasowji-500k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
 # Memoization
 |  |
 | ------- |
