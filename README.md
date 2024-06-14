@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
 # Math
 |  |
@@ -130,6 +131,7 @@
 | [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
@@ -205,3 +207,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Likithasowji-500k/LeetCode/tree/master/0175-combine-two-tables) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
