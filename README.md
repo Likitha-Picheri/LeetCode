@@ -194,6 +194,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
 # Counting
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
 # Brainteaser
 |  |
 | ------- |
@@ -301,3 +303,7 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Likithasowji-500k/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+# Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
