@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -190,6 +191,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Likithasowji-500k/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
 # Dynamic Programming
 |  |
 | ------- |
