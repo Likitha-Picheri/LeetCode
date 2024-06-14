@@ -34,6 +34,7 @@
 | [1580-shuffle-the-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 # Simulation
 |  |
@@ -185,6 +187,7 @@
 | [1448-maximum-69-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 # Counting
 |  |
 | ------- |
