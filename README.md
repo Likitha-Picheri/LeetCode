@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 # String
 |  |
@@ -115,6 +117,7 @@
 | [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
