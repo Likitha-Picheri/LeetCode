@@ -55,6 +55,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Likithasowji-500k/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Likithasowji-500k/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/0326-power-of-three) |
 # Greedy
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0263-ugly-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
