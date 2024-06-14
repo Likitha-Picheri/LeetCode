@@ -31,6 +31,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Likithasowji-500k/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -146,6 +147,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 # Simulation
 |  |
