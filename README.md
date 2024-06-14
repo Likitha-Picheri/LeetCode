@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 # String
 |  |
@@ -109,6 +111,7 @@
 | [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
