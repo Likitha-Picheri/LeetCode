@@ -60,6 +60,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Likithasowji-500k/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Likithasowji-500k/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Likithasowji-500k/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
