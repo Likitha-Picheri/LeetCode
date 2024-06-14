@@ -122,3 +122,19 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
+# Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
