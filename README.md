@@ -196,6 +196,7 @@
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Likithasowji-500k/LeetCode/tree/master/2491-smallest-even-multiple) |
 # Counting
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Likithasowji-500k/LeetCode/tree/master/2491-smallest-even-multiple) |
 # Brainteaser
 |  |
 | ------- |
