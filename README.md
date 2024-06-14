@@ -36,6 +36,7 @@
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1839-decode-xored-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1839-decode-xored-array) |
+| [1848-sum-of-unique-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -56,6 +57,7 @@
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -292,6 +294,7 @@
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1848-sum-of-unique-elements) |
 # Matrix
 |  |
 | ------- |
