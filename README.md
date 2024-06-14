@@ -16,6 +16,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Likithasowji-500k/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 # Two Pointers
@@ -110,6 +113,7 @@
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Trie
 |  |
@@ -170,3 +174,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
