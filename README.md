@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Likithasowji-500k/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -36,6 +37,7 @@
 | [0205-isomorphic-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
@@ -65,6 +67,7 @@
 | [0169-majority-element](https://github.com/Likithasowji-500k/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 # Two Pointers
@@ -106,6 +109,7 @@
 | [0191-number-of-1-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
@@ -133,6 +137,7 @@
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
@@ -154,6 +159,7 @@
 | [0035-search-insert-position](https://github.com/Likithasowji-500k/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Likithasowji-500k/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Likithasowji-500k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 # Dynamic Programming
 |  |
 | ------- |
