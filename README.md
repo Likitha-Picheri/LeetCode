@@ -56,6 +56,7 @@
 | [0050-powx-n](https://github.com/Likithasowji-500k/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Likithasowji-500k/LeetCode/tree/master/0342-power-of-four) |
 # Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Likithasowji-500k/LeetCode/tree/master/0342-power-of-four) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Likithasowji-500k/LeetCode/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
