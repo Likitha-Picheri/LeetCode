@@ -139,6 +139,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/Likithasowji-500k/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/Likithasowji-500k/LeetCode/tree/master/2886-faulty-keyboard) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Likithasowji-500k/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2886-faulty-keyboard](https://github.com/Likithasowji-500k/LeetCode/tree/master/2886-faulty-keyboard) |
 # Math
 |  |
 | ------- |
