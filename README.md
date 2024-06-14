@@ -22,6 +22,7 @@
 | [0228-summary-ranges](https://github.com/Likithasowji-500k/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -39,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
