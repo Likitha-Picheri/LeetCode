@@ -70,6 +70,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -171,6 +172,7 @@
 | [0412-fizz-buzz](https://github.com/Likithasowji-500k/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
