@@ -198,6 +198,7 @@
 | [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Likithasowji-500k/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Likithasowji-500k/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 # Counting
 |  |
 | ------- |
@@ -311,3 +312,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2083-three-divisors) |
+# Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
