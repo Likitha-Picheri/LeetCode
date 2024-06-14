@@ -59,6 +59,7 @@
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Likithasowji-500k/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
 # Greedy
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0371-sum-of-two-integers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Likithasowji-500k/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
@@ -194,10 +196,12 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
 # Tree
 |  |
 | ------- |
