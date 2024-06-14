@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Likithasowji-500k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0136-single-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0136-single-number) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
