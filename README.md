@@ -132,6 +132,7 @@
 | [0202-happy-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Likithasowji-500k/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
