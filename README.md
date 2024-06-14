@@ -25,6 +25,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Likithasowji-500k/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -87,6 +88,7 @@
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
