@@ -92,6 +92,7 @@
 | [0136-single-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
