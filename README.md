@@ -35,6 +35,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1839-decode-xored-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -145,6 +146,7 @@
 | [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Likithasowji-500k/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1839-decode-xored-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1839-decode-xored-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
