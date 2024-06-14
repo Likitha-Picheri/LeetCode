@@ -138,6 +138,7 @@
 | [0110-balanced-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0110-balanced-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -157,7 +159,9 @@
 | [0110-balanced-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 # Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
