@@ -90,6 +90,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
 # String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2502-sort-the-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/2502-sort-the-people) |
@@ -184,6 +186,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Likithasowji-500k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
 # Memoization
 |  |
 | ------- |
