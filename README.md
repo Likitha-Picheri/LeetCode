@@ -62,6 +62,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Likithasowji-500k/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Likithasowji-500k/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Likithasowji-500k/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
@@ -69,6 +70,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
 | [2044-number-of-wonderful-substrings](https://github.com/Likithasowji-500k/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 # Prefix Sum
@@ -78,6 +80,7 @@
 # Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2058-concatenation-of-array) |
 # Math
 |  |
@@ -86,6 +89,7 @@
 | [0009-palindrome-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Likithasowji-500k/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Likithasowji-500k/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Likithasowji-500k/LeetCode/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
