@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Likithasowji-500k/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Likithasowji-500k/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Likithasowji-500k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1635-number-of-good-pairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Likithasowji-500k/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/Likithasowji-500k/LeetCode/tree/master/1944-truncate-sentence) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Likithasowji-500k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Memoization
 |  |
 | ------- |
