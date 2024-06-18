@@ -11,10 +11,10 @@ class Solution:
         worker.sort()
         j = 0 
         ans = 0
-        nani = 0
+        kl = 0
         for i in range(m):
             while (j<n) and temp[j][0]<=worker[i]:
-                    nani = max(nani,temp[j][1])
+                    kl = max(kl,temp[j][1])
                     j = j+1
-            ans = ans+nani 
+            ans = ans+kl
         return ans
