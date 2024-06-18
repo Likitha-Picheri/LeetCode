@@ -117,6 +117,7 @@
 | [0344-reverse-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/Likithasowji-500k/LeetCode/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
@@ -197,6 +198,7 @@
 | [0371-sum-of-two-integers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Likithasowji-500k/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Likithasowji-500k/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -231,6 +233,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Likithasowji-500k/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Likithasowji-500k/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 # Dynamic Programming
