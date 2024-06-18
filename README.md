@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Likithasowji-500k/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/Likithasowji-500k/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0605-can-place-flowers) |
+| [0853-most-profit-assigning-work](https://github.com/Likithasowji-500k/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1448-maximum-69-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Likithasowji-500k/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
@@ -97,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Likithasowji-500k/LeetCode/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/Likithasowji-500k/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +124,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Likithasowji-500k/LeetCode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Likithasowji-500k/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1894-merge-strings-alternately](https://github.com/Likithasowji-500k/LeetCode/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
@@ -239,6 +243,7 @@
 | [0441-arranging-coins](https://github.com/Likithasowji-500k/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Likithasowji-500k/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/Likithasowji-500k/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Likithasowji-500k/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 # Dynamic Programming
 |  |
