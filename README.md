@@ -217,6 +217,7 @@
 | [2556-convert-the-temperature](https://github.com/Likithasowji-500k/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 # Counting
 |  |
 | ------- |
