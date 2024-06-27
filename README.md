@@ -47,6 +47,7 @@
 | [2881-split-strings-by-separator](https://github.com/Likithasowji-500k/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Likithasowji-500k/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Likithasowji-500k/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Likithasowji-500k/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Counting
 |  |
 | ------- |
