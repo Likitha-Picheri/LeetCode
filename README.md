@@ -342,3 +342,10 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Likithasowji-500k/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
