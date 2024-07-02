@@ -348,4 +348,8 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
+## Math
+|  |
+| ------- |
+| [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
