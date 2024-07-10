@@ -348,8 +348,13 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
 | [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
