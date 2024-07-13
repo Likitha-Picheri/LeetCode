@@ -364,6 +364,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -379,4 +380,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
