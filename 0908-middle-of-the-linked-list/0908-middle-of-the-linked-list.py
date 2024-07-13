@@ -10,11 +10,7 @@ class Solution(object):
         while curr:
             length+=1
             curr=curr.next
-        if length%2==0:
-            length=length/2
-
-        else:
-            length=length/2
+        length=length/2
         dumm=head
 
         while length>0:
