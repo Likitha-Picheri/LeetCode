@@ -355,6 +355,7 @@
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
 ## String
 |  |
@@ -384,4 +385,5 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
