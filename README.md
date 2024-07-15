@@ -349,6 +349,7 @@
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -395,4 +396,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2507-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
