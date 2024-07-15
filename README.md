@@ -356,6 +356,7 @@
 ## Math
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2507-number-of-common-factors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
@@ -399,5 +400,6 @@
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
