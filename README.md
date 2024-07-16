@@ -359,6 +359,7 @@
 | ------- |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2507-number-of-common-factors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -405,6 +407,7 @@
 | ------- |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
