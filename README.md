@@ -372,6 +372,7 @@
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -379,6 +380,7 @@
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -420,6 +422,7 @@
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Game Theory
 |  |
