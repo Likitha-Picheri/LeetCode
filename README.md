@@ -347,6 +347,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -439,4 +440,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
