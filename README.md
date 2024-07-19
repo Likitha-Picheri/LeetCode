@@ -354,6 +354,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -383,6 +384,7 @@
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -392,6 +394,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -425,6 +428,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
