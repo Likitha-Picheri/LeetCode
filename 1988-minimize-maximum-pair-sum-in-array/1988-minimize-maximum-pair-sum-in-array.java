@@ -4,8 +4,9 @@ class Solution {
         int t=nums.length;
         int max=0;
         for(int i=0;i<t/2;i++){
+           int sum=nums[i]+nums[t-i- 1];
             if(max<nums[i]+nums[t-i- 1]){
-                max=nums[i]+nums[t-i-1];
+                max=sum;
             }
         }
         return max;
