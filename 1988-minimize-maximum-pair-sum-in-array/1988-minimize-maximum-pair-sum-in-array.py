@@ -4,7 +4,8 @@ class Solution:
         t=len(nums)-1
         max=0
         for i in range(len(nums)//2):
-            if max<nums[i]+nums[t-i]:
-                max=nums[i]+nums[t-i]
+            sum=nums[i]+nums[t-i]
+            if max<sum:
+                max=sum
         return max
 
