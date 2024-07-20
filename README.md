@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -364,6 +365,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -462,6 +464,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
