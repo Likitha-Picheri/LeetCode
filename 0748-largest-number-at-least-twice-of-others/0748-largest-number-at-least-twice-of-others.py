@@ -1,10 +1,8 @@
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:
         z=nums.index(max(nums))
-        nums.sort()
-        t=len(nums)
-        for i in range(t-1):
-            if 2*nums[i]>nums[t-1]:
+        for i in range(len(nums)):
+            if z!=i and nums[i]*2>nums[z]:
                 return -1
         return z
         
