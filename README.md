@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -363,6 +364,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -392,6 +394,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -407,6 +410,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
@@ -454,8 +458,13 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
