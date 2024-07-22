@@ -474,6 +474,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Likithasowji-500k/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Dynamic Programming
 |  |
 | ------- |
