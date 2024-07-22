@@ -367,6 +367,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
