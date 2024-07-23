@@ -358,6 +358,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -406,6 +407,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
@@ -466,6 +468,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Matrix
 |  |
 | ------- |
