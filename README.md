@@ -349,6 +349,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -483,5 +484,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
