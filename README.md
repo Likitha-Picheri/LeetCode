@@ -347,6 +347,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
@@ -467,6 +468,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
