@@ -380,6 +380,7 @@
 | [2507-number-of-common-factors](https://github.com/Likithasowji-500k/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Likithasowji-500k/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Likithasowji-500k/LeetCode/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## String
