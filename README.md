@@ -393,6 +393,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
 | ------- |
