@@ -431,6 +431,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
@@ -499,4 +500,8 @@
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
