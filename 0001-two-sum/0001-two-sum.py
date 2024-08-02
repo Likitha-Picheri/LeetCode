@@ -5,3 +5,4 @@ class Solution:
             if target - num in index_map:
                 return index_map[target - num], index
             index_map[num] = index
+            
