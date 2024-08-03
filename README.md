@@ -361,6 +361,7 @@
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -415,6 +416,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Likithasowji-500k/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Likithasowji-500k/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -479,6 +481,7 @@
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
