@@ -369,6 +369,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Likithasowji-500k/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -395,6 +396,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Likithasowji-500k/LeetCode/tree/master/2011-maximum-value-after-insertion) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Likithasowji-500k/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2727-number-of-senior-citizens](https://github.com/Likithasowji-500k/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -475,6 +477,7 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -487,6 +490,7 @@
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
