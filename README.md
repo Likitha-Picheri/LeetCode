@@ -403,6 +403,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
@@ -431,6 +432,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Likithasowji-500k/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -473,6 +475,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -496,6 +500,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
