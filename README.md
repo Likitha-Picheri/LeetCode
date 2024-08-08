@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
@@ -443,6 +444,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Likithasowji-500k/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -536,4 +538,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Likithasowji-500k/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
