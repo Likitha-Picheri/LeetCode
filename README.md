@@ -367,6 +367,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1791-richest-customer-wealth](https://github.com/Likithasowji-500k/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Likithasowji-500k/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -510,6 +511,7 @@
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Likithasowji-500k/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/Likithasowji-500k/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
