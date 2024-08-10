@@ -408,6 +408,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3379-score-of-a-string](https://github.com/Likithasowji-500k/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
