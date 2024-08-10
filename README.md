@@ -398,6 +398,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0782-jewels-and-stones](https://github.com/Likithasowji-500k/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Likithasowji-500k/LeetCode/tree/master/2011-maximum-value-after-insertion) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -503,6 +504,7 @@
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/Likithasowji-500k/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likithasowji-500k/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
