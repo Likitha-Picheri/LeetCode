@@ -385,6 +385,7 @@
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -534,6 +535,7 @@
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
@@ -552,4 +554,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
