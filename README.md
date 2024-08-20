@@ -400,6 +400,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0782-jewels-and-stones](https://github.com/Likithasowji-500k/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -418,6 +419,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
