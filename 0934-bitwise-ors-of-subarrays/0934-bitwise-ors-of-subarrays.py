@@ -15,9 +15,12 @@ class Solution:
         #     for j in range(i,t):
         #         if i==j:
         #             dp[i][j]=arr[i]
+                    
         #         else:
         #             dp[i][j]=dp[i][j-1]|arr[j]
-        # print(dp)
-        # return 10
+        #         ans.add(dp[i][j])
+        # return len(ans)
+        
+        # # return 10
         
         
