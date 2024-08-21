@@ -359,6 +359,7 @@
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Likithasowji-500k/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -385,6 +386,7 @@
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Likithasowji-500k/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -494,6 +496,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Likithasowji-500k/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Counting
@@ -541,6 +544,7 @@
 | [0198-house-robber](https://github.com/Likithasowji-500k/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
