@@ -361,6 +361,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Likithasowji-500k/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Likithasowji-500k/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Likithasowji-500k/LeetCode/tree/master/0461-hamming-distance) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Likithasowji-500k/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Likithasowji-500k/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Dynamic Programming
@@ -549,6 +551,7 @@
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Likithasowji-500k/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
