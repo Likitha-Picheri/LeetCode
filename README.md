@@ -407,6 +407,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Likithasowji-500k/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -591,4 +592,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Likithasowji-500k/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
