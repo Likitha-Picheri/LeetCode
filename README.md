@@ -357,6 +357,7 @@
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Likithasowji-500k/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
@@ -430,6 +431,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Likithasowji-500k/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
