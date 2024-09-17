@@ -608,6 +608,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -616,6 +617,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -623,6 +625,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Likithasowji-500k/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -630,4 +633,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Likithasowji-500k/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
