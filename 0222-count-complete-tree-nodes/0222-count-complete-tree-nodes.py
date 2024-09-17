@@ -6,16 +6,14 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        a=deque([root])
+        q=deque([root])
         cnt=0
         if root is None:
             return 0
-        while a:
-            node=a.popleft()
+        while node:=q.popleft():
             cnt+=1
-            if node:
-                a.extend([node.left,node.right])
-        return cnt//2
+            q.extend([node.left,node.right])
+        return cnt
         
 
         
