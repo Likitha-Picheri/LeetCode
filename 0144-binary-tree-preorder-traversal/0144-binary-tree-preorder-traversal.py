@@ -9,7 +9,7 @@ class Solution:
         a=[]
         def preorder(root,a):
             if root==None:
-                return None
+                return a
             a.append(root.val)
             if root.left:
                 preorder(root.left,a)
