@@ -361,6 +361,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Likithasowji-500k/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
+| [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Likithasowji-500k/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0909-stone-game) |
@@ -475,6 +476,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Likithasowji-500k/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
@@ -641,4 +643,16 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Likithasowji-500k/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
