@@ -470,6 +470,7 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Likithasowji-500k/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Likithasowji-500k/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -487,6 +488,7 @@
 | [0206-reverse-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Likithasowji-500k/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
