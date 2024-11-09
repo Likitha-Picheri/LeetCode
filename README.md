@@ -385,6 +385,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Likithasowji-500k/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Likithasowji-500k/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Likithasowji-500k/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Math
 |  |
 | ------- |
