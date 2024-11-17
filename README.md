@@ -353,6 +353,7 @@
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Likithasowji-500k/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
@@ -578,6 +579,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Likithasowji-500k/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Likithasowji-500k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Likithasowji-500k/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
