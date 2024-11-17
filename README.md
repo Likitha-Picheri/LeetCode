@@ -434,6 +434,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Likithasowji-500k/LeetCode/tree/master/0455-assign-cookies) |
@@ -447,6 +448,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
@@ -486,6 +488,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Likithasowji-500k/LeetCode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Likithasowji-500k/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -597,6 +600,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -662,4 +666,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
