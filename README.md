@@ -481,6 +481,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Likithasowji-500k/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Likithasowji-500k/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/Likithasowji-500k/LeetCode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Likithasowji-500k/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -672,4 +673,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Likithasowji-500k/LeetCode/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Likithasowji-500k/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
