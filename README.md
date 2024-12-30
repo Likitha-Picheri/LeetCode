@@ -416,6 +416,7 @@
 | [0125-valid-palindrome](https://github.com/Likithasowji-500k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Likithasowji-500k/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Likithasowji-500k/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Likithasowji-500k/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Likithasowji-500k/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likithasowji-500k/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -549,6 +550,7 @@
 | [0217-contains-duplicate](https://github.com/Likithasowji-500k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Likithasowji-500k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Likithasowji-500k/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Likithasowji-500k/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Likithasowji-500k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Likithasowji-500k/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Likithasowji-500k/LeetCode/tree/master/0782-jewels-and-stones) |
