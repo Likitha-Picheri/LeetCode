@@ -352,6 +352,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likithasowji-500k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Likithasowji-500k/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Likithasowji-500k/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Likithasowji-500k/LeetCode/tree/master/0198-house-robber) |
@@ -510,6 +511,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Likithasowji-500k/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Likithasowji-500k/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Likithasowji-500k/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -582,6 +584,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Likithasowji-500k/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Likithasowji-500k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Likithasowji-500k/LeetCode/tree/master/0198-house-robber) |
